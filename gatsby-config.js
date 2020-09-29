@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Gelato Heladeria`,
+    description: `Heladeria artesanal establecida en la ciudad de Medellin desde el 2020. Producimos helados artesanales de sabores naturales y sin conservantes. Ademas manejamos una linea de productos veganos y para mascotas.`,
+    author: `@SamDev`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
