@@ -22,6 +22,12 @@ const Productos = () => {
           <li>Doble Chocolate con Pepino</li>
           <li>Limoncelo con Limon</li>
         </ul>
+        <h3>Gelatos Para Mascotas</h3>
+        <ul>
+          <li>Barf de Pollo</li>
+          <li>Doggie Veggie Mix</li>
+          <li>Peanut Dogger</li>
+        </ul>
         <Link to="/">Regreso al Inicio</Link>
       </div>
     </Layout>
