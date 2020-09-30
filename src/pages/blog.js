@@ -43,5 +43,4 @@ export const pageQuery = graphql`
     }
   }
 `
-
 export default BlogPage
